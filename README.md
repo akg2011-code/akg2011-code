@@ -108,7 +108,7 @@
       <img src="https://i.ibb.co/k2K8YvH/Screenshot-2022-05-26-203039.png" alt="ngx-translate" width="120" height="35"/> 
     </a>
        <a href="https://valor-software.com/ngx-bootstrap/#/" target="_blank" rel="noreferrer"> 
-      <img src="https://image.pngaaa.com/794/3801794-middle.png" alt="ngx-bootstrap" width="120" height="35"/> 
+      <img src="https://image.pngaaa.com/794/3801794-middle.png" alt="ngx-bootstrap" width="50" height="35"/> 
     </a>
 </p>
 
