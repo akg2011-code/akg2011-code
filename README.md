@@ -93,6 +93,25 @@
   </a> 
 </p>
 
+<h4 align="left"> Angular Tools:</h4>
+<p>
+    <a href="https://material.angular.io/" target="_blank" rel="noreferrer"> 
+      <img src="https://static.javatpoint.com/tutorial/angular-material/images/angular-material.jpg" alt="angular-material" width="120" height="35"/> 
+    </a>
+    <a href="https://www.ngxs.io/" target="_blank" rel="noreferrer"> 
+      <img src="https://images.opencollective.com/ngxs/1179e7d/logo/256.png" alt="ngxs" width="120" height="35"/> 
+    </a>
+     <a href="https://rxjs.dev/" target="_blank" rel="noreferrer"> 
+      <img src="https://uploads-ssl.webflow.com/5fa3282e1aaa31ce53f09ce9/5ff55009c5b84b7d9702f984_Rxjs.png" alt="RxJs" width="120" height="35"/> 
+    </a>
+      <a href="http://www.ngx-translate.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://i.ibb.co/k2K8YvH/Screenshot-2022-05-26-203039.png" alt="ngx-translate" width="120" height="35"/> 
+    </a>
+       <a href="https://valor-software.com/ngx-bootstrap/#/" target="_blank" rel="noreferrer"> 
+      <img src="https://image.pngaaa.com/794/3801794-middle.png" alt="ngx-bootstrap" width="120" height="35"/> 
+    </a>
+</p>
+
 <h4 align="left"> Web Design:</h4>
 <p>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
