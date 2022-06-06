@@ -30,6 +30,26 @@
 
 - ⚡ Fun fact **I am not a computer science graduate, all I achieved by self-learning**
 
+<h3 align="left">Education:</h3>
+
+
+  <p>
+   <a href='http://issr.cu.edu.eg/' ><img src='https://svgshare.com/i/i5_.svg' title='FGSSR'  width="50" height="70"/></a>
+   <em><strong> Postgraduate in computer science - 2021 </strong></em>
+  </p>
+
+  <p>
+   <a href='https://www.iti.gov.eg/' ><img src='https://www.iti.gov.eg/assets/images/iti-logo.png' title='ITI'  width="50" height="70"/></a>
+   <em><strong> FullStack diploma - 2020 </strong></em>
+  </p>
+
+  <p>
+   <a href='http://www.azhar.edu.eg/' ><img src='https://svgshare.com/i/i54.svg' title='Al-Azhar University'  width="50" height="70"/></a>
+   <em><strong> Bachelor's degree - 2017 </strong></em>
+  </p>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/akg2011-code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akg2011-code" height="30" width="40" /></a>
