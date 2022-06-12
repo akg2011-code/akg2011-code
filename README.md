@@ -119,7 +119,7 @@
       <img src="https://static.javatpoint.com/tutorial/angular-material/images/angular-material.jpg" alt="angular-material" width="120" height="35"/> 
     </a>
     <a href="https://www.ngxs.io/" target="_blank" rel="noreferrer"> 
-      <img src="https://images.opencollective.com/ngxs/1179e7d/logo/256.png" alt="ngxs" width="120" height="35"/> 
+      <img src="https://raw.githubusercontent.com/ngxs/store/4a7702048653a5261694c40b6ceb61f77a82b59a/docs/assets/ngxs-horizontal.svg" alt="ngxs" width="120" height="35"/> 
     </a>
      <a href="https://rxjs.dev/" target="_blank" rel="noreferrer"> 
       <img src="https://uploads-ssl.webflow.com/5fa3282e1aaa31ce53f09ce9/5ff55009c5b84b7d9702f984_Rxjs.png" alt="RxJs" width="120" height="35"/> 
