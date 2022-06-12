@@ -173,6 +173,16 @@
   </a> 
 </p>
 
+<h4 align="left">  Analytics and Tracking tools:</h4>
+<p>
+  <a href="https://analytics.google.com/analytics/web/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Google_Analytics.svg/845px-Logo_Google_Analytics.svg.png" alt="Google_Analytics" width="90" height="35"/> 
+  </a> 
+    <a href="https://ar-ar.facebook.com/business/learn/facebook-ads-pixel" target="_blank" rel="noreferrer"> 
+    <img src="https://images.ctfassets.net/co0pvta7hzrh/1OFIMV6Fxu2mK8e0k0kq2g/d3bcc260e0f243ced847b6d91ad2abe1/icon_plugin_sm.png" alt="facebook-pixel" width="40" height="40"/> 
+  </a> 
+</p>
+
 
 <p>
   <img width="49%" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=akg2011-code&count_private=true&include_all_commits=true&hide=contrib=false&show_icons=true&cache_seconds=1801&theme=cobalt" alt="akg2011-code GitHub stats">
