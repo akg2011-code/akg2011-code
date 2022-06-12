@@ -57,60 +57,20 @@
 <a href="https://www.behance.net/ahmedkorany1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ahmedkorany1" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Framworks:</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-  </a> 
-  <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> 
-  </a> 
+  </a>  
 
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> 
-  </a> 
-  <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> 
-  </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
-  <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-
+ 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
-  </a> 
+
 </p>
 
 <h4 align="left"> Angular Tools:</h4>
@@ -152,6 +112,64 @@
   </a>
 </p>
 
+<h4 align="left"> Front-end libraries:</h4>
+<p>
+ 
+   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
+  </a> 
+ 
+   <a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://seeklogo.com/images/J/jquery-logo-CFE6ECE363-seeklogo.com.png" alt="jquery" width="40" height="40"/> 
+  </a>
+ 
+   <a href="https://formly.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://svgshare.com/i/iCg.svg" alt="ngx-formly" width="40" height="40"/> 
+  </a> 
+ 
+   <a href="https://michalsnik.github.io/aos/" target="_blank" rel="noreferrer"> 
+    <img src="https://ps.w.org/cvw-pb-animation/assets/icon-256x256.png" alt="aos" width="40" height="40"/> 
+  </a> 
+ 
+   <a href="https://github.com/angular-material-extensions/password-strength" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/39883952?v=4" alt="password-strength" width="40" height="40"/> 
+  </a>
+ 
+   <a href="https://momentjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://seeklogo.com/images/M/momentjs-logo-4DF96FC733-seeklogo.com.png" alt="momentjs" width="40" height="40"/> 
+  </a>
+ 
+   <a href="http://kenwheeler.github.io/slick/" target="_blank" rel="noreferrer"> 
+    <img src="https://diviengine.com/wp-content/uploads/2021/05/slick-logo.png" alt="slick" width="40" height="40"/> 
+  </a>
+</p>
+
+
+<h4 align="left"> Testing tools:</h4>
+<p>
+  <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> 
+  </a> 
+
+  <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> 
+  </a> 
+</p>
+
+<h4 align="left"> Cross platform tools:</h4>
+<p>
+  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> 
+  </a> 
+
+  <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> 
+  </a> 
+ 
+   <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> 
+  </a>
+</p>
 
 <h4 align="left"> API client tools:</h4>
 <p>
@@ -182,6 +200,18 @@
     <img src="https://images.ctfassets.net/co0pvta7hzrh/1OFIMV6Fxu2mK8e0k0kq2g/d3bcc260e0f243ced847b6d91ad2abe1/icon_plugin_sm.png" alt="facebook-pixel" width="40" height="40"/> 
   </a> 
 </p>
+
+<h4 align="left"> Adobe software:</h4>
+<p>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+  </a> 
+
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
+  </a> 
+</p>
+
 
 
 <p>
