@@ -1,18 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmed Korany</h1>
 <h3 align="center">Frontend developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akg2011-code&label=Profile%20views&color=0e75b6&style=flat" alt="akg2011-code" /> 
-
-[![Visits Badge](https://badges.pufler.dev/visits/akg2011-code/akg2011-code)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/akg2011-code)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/akg2011-code)](https://badges.pufler.dev)
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=akg2011-code&label=Profile%20views&color=0e75b6&style=flat" alt="akg2011-code" /> 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/akg2011-code?color=4cc61e">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/akg2011-code?color=4cc61e">
- [![Updated Badge](https://badges.pufler.dev/updated/akg2011-code/akg2011-code)](https://badges.pufler.dev)
-[![Created Badge](https://badges.pufler.dev/created/akg2011-code/akg2011-code)](https://badges.pufler.dev)
-
 
 </p>
+
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -153,6 +148,10 @@
 
   <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://istanbul.js.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://istanbul.js.org/assets/istanbul-logo.png" alt="istanbul" width="40" height="40"/> 
   </a> 
 </p>
 
