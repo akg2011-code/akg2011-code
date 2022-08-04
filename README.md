@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Ahmed Korany</h1>
 <h3 align="center">Frontend developer from Egypt</h3>
 
@@ -24,6 +25,14 @@
 - 📫 How to reach me **akg201194@gmail.com**
 
 - ⚡ Fun fact **I am not a computer science graduate, all I achieved by self-learning**
+
+<h3 align="left">Experience:</h3>
+
+| ❶ IQ 2 Life | ❷ Estafsar | 
+| --- | --- |
+|  <a href='#' ><img src='https://scontent.fcai20-3.fna.fbcdn.net/v/t1.6435-9/122115384_170581014702122_552981340673325668_n.png?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Bqbna3-e7QUAX9UqM7r&_nc_ht=scontent.fcai20-3.fna&oh=00_AT_KR0s0o6hpIRN8eyryGjuH_A6-_ksEnbPFKiwCED_zcA&oe=631092BC' title='IQ2life'  width="70" height="70"/></a> |  <a href='https://estafsar.com' ><img src='https://estafsar.com/assets/imgs/logo.svg' title='estafsar'  width="90" height="70"/></a> |
+| <em><strong> 8-2020 →  1-2021 </strong></em> | <em><strong> 2-2021 → present </strong></em> |
+
 
 <h3 align="left">Education:</h3>
 
