@@ -16,7 +16,7 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on [Estafsar](https://estafsar.com/)
+- 🔭 I’m currently working on [Elham](https://elham.sa/)
 
 - 🌱 I’m currently learning **Postgraduate in computer science at Cairo univeristy**
 
@@ -28,10 +28,10 @@
 
 <h3 align="left">Experience:</h3>
 
-| ❶ IQ 2 Life | ❷ Estafsar | 
-| --- | --- |
-|  <a href='#' ><img src='https://scontent.fcai20-3.fna.fbcdn.net/v/t1.6435-9/122115384_170581014702122_552981340673325668_n.png?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Bqbna3-e7QUAX9UqM7r&_nc_ht=scontent.fcai20-3.fna&oh=00_AT_KR0s0o6hpIRN8eyryGjuH_A6-_ksEnbPFKiwCED_zcA&oe=631092BC' title='IQ2life'  width="70" height="70"/></a> |  <a href='https://estafsar.com' ><img src='https://estafsar.com/assets/imgs/logo.svg' title='estafsar'  width="90" height="70"/></a> |
-| <em><strong> 8-2020 →  1-2021 </strong></em> | <em><strong> 2-2021 → present </strong></em> |
+| ❶ IQ 2 Life | ❷ Estafsar | ❸ Elham
+| --- | --- | --- |
+|  <a href='#' ><img src='https://scontent.fcai20-3.fna.fbcdn.net/v/t1.6435-9/122115384_170581014702122_552981340673325668_n.png?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Bqbna3-e7QUAX9UqM7r&_nc_ht=scontent.fcai20-3.fna&oh=00_AT_KR0s0o6hpIRN8eyryGjuH_A6-_ksEnbPFKiwCED_zcA&oe=631092BC' title='IQ2life'  width="70" height="70"/></a> |  <a href='https://estafsar.com' ><img src='https://estafsar.com/assets/imgs/logo.svg' title='estafsar'  width="90" height="70"/></a> |  <a href='https://elham.sa/' ><img src='https://media-exp1.licdn.com/dms/image/C4E0BAQG1LSTrqmqvxw/company-logo_200_200/0/1634722592520?e=1669248000&v=beta&t=alMsVdCyO5EQ2PE6IcpqUdS6rgtgtDHlU-am-By5c9w' title='elham'  width="80" height="70"/></a> |
+| <em><strong> 8-2020 →  1-2021 </strong></em> | <em><strong> 2-2021 → 8-2022 </strong></em> | <em><strong> 8-2022 → present </strong></em> |
 
 
 <h3 align="left">Education:</h3>
@@ -57,7 +57,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/akg2011-code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akg2011-code" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmed-korany-131a03123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-korany-131a03123" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmed-korany-95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-korany-131a03123" height="30" width="40" /></a>
 <a href="https://www.behance.net/ahmedkorany1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ahmedkorany1" height="30" width="40" /></a>
 </p>
 
