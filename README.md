@@ -114,6 +114,12 @@
       <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" alt="sass" width="70" height="40"/> 
   </a>
+  <a href="https://ng.ant.design/docs/introduce/en" target="_blank" rel="noreferrer"> 
+    <img src="https://img.alicdn.com/tfs/TB1g.mWZAL0gK0jSZFtXXXQCXXa-200-200.svg" alt="ng-zorro" width="40" height="40"/> 
+  </a>
+  <a href="https://primeng.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png" alt="ng-prime" width="40" height="40"/> 
+  </a>
 </p>
 
 <h4 align="left"> Front-end libraries:</h4>
