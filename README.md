@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on [Elham](https://elham.sa/)
 
-- 🌱 I’m currently learning **Postgraduate in computer science at Cairo univeristy**
+- 🌱 I’m currently learning **python-django**
 
 - 💬 Ask me about **Angular**
 
