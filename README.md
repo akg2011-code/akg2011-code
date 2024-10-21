@@ -16,22 +16,22 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on [Elham](https://elham.sa/)
+- 🔭 I’m currently working on [Shelter-Technology](https://shelter-technology.com/)
 
-- 🌱 I’m currently learning **python-django**
+- 🌱 I’m currently learning **Fullstack**
 
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **Angular** & **Next Js**
 
-- 📫 How to reach me **akg201194@gmail.com**
+- 📫 How to reach me **ahmedkoranygaber@gmail.com**
 
 - ⚡ Fun fact **I am not a computer science graduate, all I achieved by self-learning**
 
 <h3 align="left">Experience:</h3>
 
-| ❶ IQ 2 Life | ❷ Estafsar | ❸ Elham
-| --- | --- | --- |
-|  <a href='#' ><img src='https://play-lh.googleusercontent.com/G-0dXmzyWkKu_ML9Uckm7vBh7M6Lj4HWjjR4Vhwb5TjdNv0J6BNHzxMAsRIJ509cANRY=w240-h480-rw' title='IQ2life'  width="90" height="70"/></a> |  <a href='https://estafsar.com' ><img src='https://estafsar.com/assets/imgs/logo.svg' title='estafsar'  width="90" height="70"/></a> |  <a href='https://elham.sa/' ><img src='https://elham.sa/assets/img/logo-elham.svg' title='elham'  width="80" height="70"/></a> |
-| <em><strong> 8-2020 →  1-2021 </strong></em> | <em><strong> 2-2021 → 8-2022 </strong></em> | <em><strong> 8-2022 → present </strong></em> |
+| ❶ IQ 2 Life | ❷ Oola | ❸ Elham | ❹ Shelter-Technology
+| --- | --- | --- | --- |
+|  <a href='#' ><img src='https://play-lh.googleusercontent.com/G-0dXmzyWkKu_ML9Uckm7vBh7M6Lj4HWjjR4Vhwb5TjdNv0J6BNHzxMAsRIJ509cANRY=w240-h480-rw' title='IQ2life'  width="90" height="70"/></a> |  <a href='https://estafsar.com' ><img src='https://www.estafsar.com/static/images/oola-logo.svg' title='estafsar'  width="90" height="70"/></a> |  <a href='https://elham.sa/' ><img src='https://cdn.prod.website-files.com/64996137a1e0a71956ea90eb/64997d15979306f7e737a767_logo.png' title='elham'  width="80" height="70"/></a> | <a href='https://shelter-technology.com/' ><img src='https://shelter-technology.com/wp-content/uploads/2023/08/cropped-cropped-cropped-Asset-1.png' title='shelter'  width="130" height="70"/></a> |
+| <em><strong> 8-2020 →  1-2021 </strong></em> | <em><strong> 2-2021 → 8-2022 </strong></em> | <em><strong> 8-2022 → 9-2023 </strong></em> |  <em><strong> 10-2023 → present </strong></em> 
 
 
 <h3 align="left">Education:</h3>
@@ -43,7 +43,7 @@
   </p>
 
   <p>
-   <a href='https://www.iti.gov.eg/' ><img src='https://www.iti.gov.eg/assets/images/iti-logo.png' title='ITI'  width="50" height="70"/></a>
+   <a href='https://www.iti.gov.eg/' ><img src='https://iti.gov.eg/assets/images/ColoredLogo.svg' title='ITI'  width="50" height="90"/></a>
    <em><strong> FullStack diploma - 2020 </strong></em>
   </p>
 
@@ -67,7 +67,10 @@
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
   </a>  
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="angular" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/> 
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://images.prismic.io/turing/652ec31afbd9a45bcec81965_Top_Features_in_Next_js_13_7f9a32190f.webp?auto=format%2Ccompress&fit=max&w=1920" alt="nextjs" width="60" height="40"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
